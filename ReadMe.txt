@@ -1,4 +1,4 @@
-In this project you will see Different types of Movie Recommendation Systems.
+In this project you can find implementations of different types of Movie Recommendation Systems along with necessary points explained in comments.
 1.Simple Movie Recommenders
 2.Content-Based Movie Recommenders
 3.Collaborative Filtering-Based Movie Recommenders
